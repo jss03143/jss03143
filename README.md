@@ -2,6 +2,6 @@ KJ Choi
 
 main : python, Android Studio( app / android )
 
-program : web crawling
+working : Web / jsp, java, xml(postgresql)
 
-year : 26 ( python 1, app 3 )
+year : 27 ( python 1, app 3 )
